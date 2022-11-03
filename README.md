@@ -1,6 +1,6 @@
 # Hi, I'm Cody! 
 
-I'm a Computer and Information Science senior at the University of Michigan-Dearborn, set to graduate in December 2022.<br>
+I'm a Computer and Information Science senior at the University of Michigan-Dearborn, set to graduate in December 2022.<br><br>
 I thrive most while building frontend design projects, talking about web accessibility, presenting my work to colleagues, and in writing all of that technical goodness into my documentation.
 
 # When I'm not coding, I'm:
