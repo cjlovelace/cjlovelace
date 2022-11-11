@@ -11,7 +11,7 @@ I thrive most while building frontend design projects, talking about web accessi
 - Taking part (and succeeding!) in UMD <a href="https://sites.google.com/umich.edu/art-in-a-time-of-pandemic/1st-prize/art?authuser=0">photography</a> and <a href="https://umdearborn.edu/casl/departments/language-culture-and-arts/composition-and-rhetoric/writing-awards?gclid=Cj0KCQjwqoibBhDUARIsAH2OpWitjbzNEeqbX3yDkuqo49N606whI-af0_MPpCX9yF0w6o9RL2fcfMsaAiUsEALw_wcB">writing</a> contests.
 - Working as an American Sign Language interpreter.
 
-## Check out my Holopin badges from Hacktoberfest 2022!
+## Check out my Holopin badges from <a href="https://hacktoberfest.com/about/">Hacktoberfest 2022</a>!
 [![@cjlovelace's Holopin board](https://holopin.me/cjlovelace)](https://holopin.io/@cjlovelace)
 
 ## Find me in cyberspace:
