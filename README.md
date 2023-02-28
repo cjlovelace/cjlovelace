@@ -1,6 +1,6 @@
 # Hi, I'm Cody! 
 
-I'm a Computer and Information Science Dec. 2022 graduate from the University of Michigan-Dearborn.
+I'm a Computer and Information Science Dec. 2022 graduate from the University of Michigan-Dearborn.<br>
 I thrive most while building frontend design projects, talking about web accessibility, presenting my work to colleagues, and writing all of that technical goodness into my documentation.
 
 ## When I'm not coding, I'm:
