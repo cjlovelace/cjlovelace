@@ -8,7 +8,7 @@ I thrive most while building frontend design and gaming projects, talking about 
 - Cross stitching, sewing, print making, painting, and other creative pursuits.
 - Cooking and baking up a storm in the kitchen.
 
-## Check out my Holopin badges from <a href="https://hacktoberfest.com/about/">Hacktoberfest 2022 and 2023</a>!
+## Check out my Holopin badges from <a href="https://hacktoberfest.com/about/">Hacktoberfest</a>!
 [![@cjlovelace's Holopin board](https://holopin.me/cjlovelace)](https://holopin.io/@cjlovelace)
 
 ## Find me in cyberspace:
